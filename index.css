@@ -1,0 +1,125 @@
+body {
+    background-image: url("gateway.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    height: 600px;
+    margin: 0;
+
+
+    color: rgb(6, 10, 10);
+
+  }
+
+  header {
+    border: 2px solid #202020;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+
+  
+
+  header img {
+    height: 80px;
+    width: 90px;
+    margin-left: 10px;
+  }
+
+  #anchor {
+    margin-left: 600px;
+    display: flex;
+    /* gap: 15px; */
+  }
+
+  #anchor a {
+    text-decoration: none;
+    margin-left: 16px;
+    
+  }
+
+  #anchor button {
+    border: none;
+    background-color: #DCE2F0;
+    color: rgb(80, 88, 109);
+    height: 30px;
+    width: 100px;
+    font-size: 16px;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-right: 20px;
+  }
+
+ /* style for images and paragraph */
+
+   #mum-img img {
+
+    height: 300px;
+    margin-left: 25px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    border: 2px solid black;
+  }
+
+  #capital h2 {
+    font-size: 36px;
+  }
+
+  #capital {
+    font-size: 20px;
+    width: 60%;
+    margin-left: 35%;
+    text-align: justify;
+    margin-top: -400px;
+    background-color: rgba(240, 248, 255, 0.37);
+
+
+  }
+
+  #Historical-img img {
+    width: 450px;
+    margin-top: 60px;
+
+    margin-left: 62%;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    border: 2px solid black;
+
+
+  }
+
+  #Historical-p {
+    width: 60%;
+    font-size: 20px;
+    margin-top: -400px;
+    text-align: justify;
+    margin-left: 8px;
+    background-color: rgba(240, 248, 255, 0.37);
+
+
+  }
+
+  #marathi1 img {
+
+    margin-top: 70px;
+    width: 390px;
+    margin-left: 25px;
+    border-top-left-radius: 70px;
+    border-bottom-right-radius: 70px;
+    border: 2px solid black;
+
+  }
+
+  #Marathi-p {
+    font-size: 20px;
+    width: 60%;
+    margin-left: 38%;
+    text-align: justify;
+    margin-top: -300px;
+    background-color: rgba(240, 248, 255, 0.37);
+    padding: 16px;
+
+
+
+  }
